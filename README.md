@@ -58,6 +58,7 @@ We need to install nodejs to `/usr/local/cpanel/3rdparty`
 ```sh
 $ cd /usr/local/cpanel/3rdparty
 $ wget http://nodejs.org/dist/v0.10.35/node-v0.10.35-linux-x64.tar.gz
+$ tar -zxvf node-v0.10.35-linux-x64.tar.gz
 $ mv node-v0.10.35-linux-x64 nodejs
 ```
 
